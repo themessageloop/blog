@@ -1,4 +1,4 @@
-blog
+Message Loop Blog
 ====
 
-Message Loop Blog
+http://blog.themessageloop.com
